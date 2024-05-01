@@ -1,2 +1,2 @@
 # laboratory-work
-<h1> niv data </h1>
+<h1> nev data </h1>
